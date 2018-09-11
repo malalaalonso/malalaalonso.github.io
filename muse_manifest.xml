@@ -1,20 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536175971746">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536674095412">
   <folder name="css">
     <file name="site_global.css" crc="4187564307"/>
-    <file name="master_a-master.css" crc="299104040" ref="portfolio:graphic-design:about:contact:index:web-design"/>
-    <file name="nomq_preview_master_a-master.css" crc="3799521726" ref="portfolio:graphic-design:about:contact:index:web-design"/>
-    <file name="portfolio.css" crc="463442044" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="390730616" ref="portfolio"/>
-    <file name="graphic-design.css" crc="4169788043" ref="graphic-design"/>
-    <file name="nomq_graphic-design.css" crc="483389341" ref="graphic-design"/>
-    <file name="about.css" crc="4292096025" ref="about"/>
-    <file name="nomq_about.css" crc="3977294064" ref="about"/>
-    <file name="contact.css" crc="3986576909" ref="contact"/>
-    <file name="nomq_contact.css" crc="25033736" ref="contact"/>
-    <file name="index.css" crc="3919449036" ref="index"/>
-    <file name="nomq_index.css" crc="227555941" ref="index"/>
-    <file name="web-design.css" crc="3922522432" ref="web-design"/>
-    <file name="nomq_web-design.css" crc="273240368" ref="web-design"/>
+    <file name="master_a-master.css" crc="3966743656" ref="graphic-design:about:web-design:contact:portfolio:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="340035338" ref="graphic-design:about:web-design:contact:portfolio:index"/>
+    <file name="graphic-design.css" crc="4158565376" ref="graphic-design"/>
+    <file name="nomq_graphic-design.css" crc="3790668423" ref="graphic-design"/>
+    <file name="about.css" crc="3938066883" ref="about"/>
+    <file name="nomq_about.css" crc="203685518" ref="about"/>
+    <file name="web-design.css" crc="4228511856" ref="web-design"/>
+    <file name="nomq_web-design.css" crc="4261943644" ref="web-design"/>
+    <file name="contact.css" crc="3961297449" ref="contact"/>
+    <file name="nomq_contact.css" crc="137730582" ref="contact"/>
+    <file name="portfolio.css" crc="3791488037" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4105589020" ref="portfolio"/>
+    <file name="index.css" crc="364773986" ref="index"/>
+    <file name="nomq_index.css" crc="4111084560" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.docx" crc="198762835" seo="true" mt="1536670127000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:web-design:graphic-design"/>
@@ -36,7 +39,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="web-design:graphic-design"/>
   </folder>
   <folder name="images">
-    <file name="mylogo2.svg" crc="4061481435" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+    <file name="mylogo2.png" crc="94487465" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -45,15 +48,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -67,16 +61,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -100,8 +85,26 @@
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="mylogo2_poster_.png" crc="4151839787" ref="index:contact"/>
     <file name="pasted-svg-674271x582.svg" crc="4160930392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -122,15 +125,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -144,16 +138,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -177,8 +162,27 @@
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="iconmonstr-instagram-11_poster_.png" crc="3765290982" ref="index:contact"/>
+    <file name="iconmonstr-instagram-11_poster_.png" crc="3765290982" ref="index"/>
     <file name="iconmonstr-linkedin-1.svg" crc="3944731760" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -188,15 +192,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -210,16 +205,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -243,8 +229,27 @@
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="iconmonstr-linkedin-1_poster_.png" crc="3949178403" ref="index:contact"/>
+    <file name="iconmonstr-linkedin-1_poster_.png" crc="3949178403" ref="index"/>
     <file name="iconmonstr-twitter-4.svg" crc="3818860618" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -254,15 +259,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -276,16 +272,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -309,8 +296,27 @@
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="iconmonstr-twitter-4_poster_.png" crc="3932987172" ref="index:contact"/>
+    <file name="iconmonstr-twitter-4_poster_.png" crc="3932987172" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:web-design:graphic-design"/>
     <file name="flecha.gif" crc="3953349162" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -386,6 +392,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="flechap2.gif" crc="205694594" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -402,46 +409,17 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="u567-5.png" crc="459910684" ref="contact"/>
-    <file name="iconmonstr-sms-4.svg" crc="4286369665" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="iconmonstr-sms-4_poster_.png" crc="431729584" ref="contact"/>
     <file name="u567-52.png" crc="359228322" ref="contact"/>
     <file name="u567-53.png" crc="4000005179" ref="contact"/>
     <file name="u567-54.png" crc="4238832456" ref="contact"/>
     <file name="u567-55.png" crc="342785895" ref="contact"/>
-    <file name="u567-56.png" crc="136567942" ref="contact"/>
-    <file name="u2103.png" crc="3847413556" ref="contact"/>
-    <file name="u2103-ferr.png" crc="3972913597" ref="contact"/>
-    <file name="u2108.png" crc="437327891" ref="contact"/>
-    <file name="u2108-ferr.png" crc="442768655" ref="contact"/>
-    <file name="u2115.png" crc="321289104" ref="contact"/>
-    <file name="u2115-ferr.png" crc="87784774" ref="contact"/>
-    <file name="u567-57.png" crc="4035446505" ref="contact"/>
-    <file name="u21032.png" crc="375430487" ref="contact"/>
-    <file name="u2103-ferr2.png" crc="445405392" ref="contact"/>
-    <file name="u21082.png" crc="48782254" ref="contact"/>
-    <file name="u2108-ferr2.png" crc="391030109" ref="contact"/>
-    <file name="u21152.png" crc="442844362" ref="contact"/>
-    <file name="u2115-ferr2.png" crc="447816688" ref="contact"/>
+    <file name="u567-56.png" crc="3850615895" ref="contact"/>
+    <file name="u567-57.png" crc="3780577098" ref="contact"/>
     <file name="u567-58.png" crc="3768429715" ref="contact"/>
-    <file name="u567-59.png" crc="228089372" ref="contact"/>
-    <file name="u21033.png" crc="3766100835" ref="contact"/>
-    <file name="u2103-ferr3.png" crc="103377492" ref="contact"/>
-    <file name="u21083.png" crc="510311152" ref="contact"/>
-    <file name="u2108-ferr3.png" crc="3902534149" ref="contact"/>
-    <file name="u21153.png" crc="492861025" ref="contact"/>
-    <file name="u2115-ferr3.png" crc="468443453" ref="contact"/>
+    <file name="u567-59.png" crc="3890786703" ref="contact"/>
     <file name="cumplelole1.gif" crc="4168967153" seo="true" ref="web-design">
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
@@ -570,7 +548,7 @@
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u23342.jpg" crc="4013866774" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u23342.jpg" crc="473902623" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4.jpg" crc="4131160620" seo="true" ref="graphic-design">
@@ -592,7 +570,7 @@
     <file name="greatpitalogos_page_3453x302.jpg" crc="4102702828" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233422.jpg" crc="461618848" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233422.jpg" crc="89165367" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4453x302.jpg" crc="182035150" seo="true" ref="graphic-design">
@@ -610,7 +588,7 @@
     <file name="greatpitalogos_page_3384x256.jpg" crc="3878591285" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233423.jpg" crc="3919684905" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233423.jpg" crc="193775516" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4384x256.jpg" crc="3761717869" seo="true" ref="graphic-design">
@@ -637,7 +615,7 @@
     <file name="greatpitalogos_page_3375x250.jpg" crc="471598858" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233424.jpg" crc="3949998780" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233424.jpg" crc="4245469901" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4375x250.jpg" crc="510874289" seo="true" ref="graphic-design">
@@ -655,7 +633,7 @@
     <file name="greatpitalogos_page_3258x172.jpg" crc="388416878" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233425.jpg" crc="55914889" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233425.jpg" crc="377949405" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4258x172.jpg" crc="3915034571" seo="true" ref="graphic-design">
@@ -664,7 +642,7 @@
     <file name="greatpitalogos_page_3240x160.jpg" crc="399343264" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233426.jpg" crc="4069134759" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233426.jpg" crc="221049264" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4240x160.jpg" crc="4278143011" seo="true" ref="graphic-design">
@@ -682,7 +660,7 @@
     <file name="greatpitalogos_page_3238x159.jpg" crc="3945048629" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233427.jpg" crc="189824117" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233427.jpg" crc="386510751" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4238x159.jpg" crc="3790949793" seo="true" ref="graphic-design">
@@ -700,7 +678,7 @@
     <file name="greatpitalogos_page_3203x136.jpg" crc="3956770289" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233428.jpg" crc="178744486" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233428.jpg" crc="285409397" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4203x136.jpg" crc="471465571" seo="true" ref="graphic-design">
@@ -718,7 +696,7 @@
     <file name="greatpitalogos_page_3160x107.jpg" crc="3931476585" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="aldesign-crop-u233429.jpg" crc="298155239" seo="true" ref="graphic-design">
+    <file name="aldesign-crop-u233429.jpg" crc="30269907" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="greatpitalogos_page_4160x107.jpg" crc="34338926" seo="true" ref="graphic-design">
@@ -734,10 +712,10 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3969127545" seo="true" mt="1536112720469" redirect="true"/>
-  <file name="about.html" crc="4156316689" seo="true" mt="1536113830850" redirect="true"/>
-  <file name="portfolio.html" crc="140203476" seo="true" mt="1536175345320" redirect="true"/>
-  <file name="contact.html" crc="4190311194" seo="true" mt="1536175948026" redirect="true"/>
-  <file name="web-design.html" crc="3800304221" seo="true" mt="1536112756845" redirect="true"/>
-  <file name="graphic-design.html" crc="3763191391" seo="true" mt="1536175598167" redirect="true"/>
+  <file name="index.html" crc="148930596" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="about.html" crc="3886734217" seo="true" mt="1536672032452" redirect="true"/>
+  <file name="portfolio.html" crc="209416761" seo="true" mt="1536671961498" redirect="true"/>
+  <file name="contact.html" crc="392970134" seo="true" mt="1536672147312" redirect="true"/>
+  <file name="web-design.html" crc="87344480" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="graphic-design.html" crc="169456084" seo="true" mt="1536671234715" redirect="true"/>
 </manifest>

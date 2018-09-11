@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://malalaalonso.me/index.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://malalaalonso.me/images/pasted-svg-674271x582.svg</image:loc>
@@ -22,12 +22,36 @@
     </image:image>
   </url>
   <url>
-    <loc>http://malalaalonso.me/about.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <loc>http://malalaalonso.me/portfolio.html</loc>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-linkedin-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-twitter-4.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/flechap.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/flechap2.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://malalaalonso.me/about.html</loc>
+    <lastmod>2018-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
@@ -82,57 +106,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://malalaalonso.me/portfolio.html</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-linkedin-1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-twitter-4.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/flechap.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/flechap2.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://malalaalonso.me/contact.html</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-linkedin-1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-twitter-4.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://malalaalonso.me/images/iconmonstr-sms-4.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://malalaalonso.me/web-design.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
@@ -235,12 +214,30 @@
     </image:image>
   </url>
   <url>
-    <loc>http://malalaalonso.me/graphic-design.html</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://malalaalonso.me/contact.html</loc>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://malalaalonso.me/images/mylogo2.svg</image:loc>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-linkedin-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/iconmonstr-twitter-4.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://malalaalonso.me/graphic-design.html</loc>
+    <lastmod>2018-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://malalaalonso.me/images/mylogo2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://malalaalonso.me/images/iconmonstr-instagram-11.svg</image:loc>
@@ -425,5 +422,11 @@
     <image:image>
       <image:loc>http://malalaalonso.me/images/aldesign-crop-u2336810.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://malalaalonso.me/assets/resume.docx</loc>
+    <lastmod>2018-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
