@@ -1,0 +1,721 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536672251305">
+  <folder name="assets">
+    <file name="resume.docx" crc="198762835" seo="true" mt="1536670127000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4187564307"/>
+    <file name="master_a-master.css" crc="3966743656" ref="portfolio:graphic-design:about:contact:index:web-design"/>
+    <file name="nomq_preview_master_a-master.css" crc="340035338" ref="portfolio:graphic-design:about:contact:index:web-design"/>
+    <file name="portfolio.css" crc="3791488037" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4105589020" ref="portfolio"/>
+    <file name="graphic-design.css" crc="4158565376" ref="graphic-design"/>
+    <file name="nomq_graphic-design.css" crc="3790668423" ref="graphic-design"/>
+    <file name="about.css" crc="3938066883" ref="about"/>
+    <file name="nomq_about.css" crc="203685518" ref="about"/>
+    <file name="contact.css" crc="3961297449" ref="contact"/>
+    <file name="nomq_contact.css" crc="137730582" ref="contact"/>
+    <file name="index.css" crc="364773986" ref="index"/>
+    <file name="nomq_index.css" crc="4111084560" ref="index"/>
+    <file name="web-design.css" crc="4228511856" ref="web-design"/>
+    <file name="nomq_web-design.css" crc="4261943644" ref="web-design"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="webpro.js" crc="242022427" ref="contact:web-design:graphic-design"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u2101.php" crc="4197892451" ref="contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="web-design:graphic-design"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="web-design:graphic-design"/>
+    <file name="touchswipe.js" crc="4066113679" ref="web-design:graphic-design"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-674271x582.svg" crc="4160930392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 674271x582_poster_.png" crc="181434257" ref="index"/>
+    <file name="iconmonstr-instagram-11.svg" crc="4249727278" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-11_poster_.png" crc="3765290982" ref="index"/>
+    <file name="iconmonstr-linkedin-1.svg" crc="3944731760" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-1_poster_.png" crc="3949178403" ref="index"/>
+    <file name="iconmonstr-twitter-4.svg" crc="3818860618" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-4_poster_.png" crc="3932987172" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="flecha.gif" crc="3953349162" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me.jpg" crc="223506432" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="flecha2.gif" crc="4114476528" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me266x354.jpg" crc="3894071587" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me252x336.jpg" crc="52923092" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me232x309.jpg" crc="453828864" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me220x293.jpg" crc="3771510624" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me178x237.jpg" crc="441372854" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me174x231.jpg" crc="128135849" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me119x159.jpg" crc="497850527" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me172x230.jpg" crc="4105906812" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me171x227.jpg" crc="202662417" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me135x181.jpg" crc="4270535270" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me130x174.jpg" crc="4174192451" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="flechap.gif" crc="4279301716" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="flechap2.gif" crc="205694594" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u567-5.png" crc="459910684" ref="contact"/>
+    <file name="u567-52.png" crc="359228322" ref="contact"/>
+    <file name="u567-53.png" crc="4000005179" ref="contact"/>
+    <file name="u567-54.png" crc="4238832456" ref="contact"/>
+    <file name="u567-55.png" crc="342785895" ref="contact"/>
+    <file name="u567-56.png" crc="3850615895" ref="contact"/>
+    <file name="u567-57.png" crc="3780577098" ref="contact"/>
+    <file name="u567-58.png" crc="3768429715" ref="contact"/>
+    <file name="u567-59.png" crc="3890786703" ref="contact"/>
+    <file name="cumplelole1.gif" crc="4168967153" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate.gif" crc="4252249392" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw.gif" crc="342008314" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u1450.jpg" crc="408353883" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u1564.jpg" crc="346745740" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u1584.jpg" crc="4135279608" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="web-design:graphic-design"/>
+    <file name="cumplelole1-crop-u14502.jpg" crc="3987812639" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15642.jpg" crc="493254012" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15842.jpg" crc="4080713212" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14503.jpg" crc="435166948" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15643.jpg" crc="4217351996" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15843.jpg" crc="270577446" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14504.jpg" crc="3881462803" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15644.jpg" crc="4243003251" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15844.jpg" crc="4104179912" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14505.jpg" crc="3897658190" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15645.jpg" crc="418030990" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15845.jpg" crc="3794608373" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14506.jpg" crc="373956027" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15646.jpg" crc="452539551" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15846.jpg" crc="4137113347" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14507.jpg" crc="3838470673" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15647.jpg" crc="41196334" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15847.jpg" crc="4020257536" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14508.jpg" crc="4022693823" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15648.jpg" crc="3988507719" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15848.jpg" crc="4183060819" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="cumplelole1-crop-u14509.jpg" crc="3951107312" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="savethedate-crop-u15649.jpg" crc="108087693" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="vpw-crop-u15849.jpg" crc="307906650" seo="true" ref="web-design">
+      <caption webpage="web-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u2487.jpg" crc="4182675542" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u2507.jpg" crc="3779376400" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u23368.jpg" crc="495249655" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3.jpg" crc="3892339581" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u23342.jpg" crc="473902623" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4.jpg" crc="4131160620" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24872.jpg" crc="4227930035" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233682.jpg" crc="224874941" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25072.jpg" crc="4168012345" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign480x480.jpg" crc="474395710" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3453x302.jpg" crc="4102702828" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233422.jpg" crc="89165367" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4453x302.jpg" crc="182035150" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24873.jpg" crc="4174768039" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25073.jpg" crc="3841238894" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233683.jpg" crc="4152283305" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3384x256.jpg" crc="3878591285" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233423.jpg" crc="193775516" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4384x256.jpg" crc="3761717869" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24874.jpg" crc="3918891011" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25074.jpg" crc="515027198" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233684.jpg" crc="219659662" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24875.jpg" crc="4106207751" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25075.jpg" crc="318079468" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233685.jpg" crc="3912742" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3375x250.jpg" crc="471598858" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233424.jpg" crc="4245469901" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4375x250.jpg" crc="510874289" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24876.jpg" crc="45591934" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25076.jpg" crc="4164679464" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233686.jpg" crc="519220235" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3258x172.jpg" crc="388416878" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233425.jpg" crc="377949405" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4258x172.jpg" crc="3915034571" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3240x160.jpg" crc="399343264" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233426.jpg" crc="221049264" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4240x160.jpg" crc="4278143011" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24877.jpg" crc="4292550488" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25077.jpg" crc="240694401" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233687.jpg" crc="49166056" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3238x159.jpg" crc="3945048629" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233427.jpg" crc="386510751" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4238x159.jpg" crc="3790949793" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24878.jpg" crc="4028937491" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25078.jpg" crc="4145462115" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233688.jpg" crc="49166056" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3203x136.jpg" crc="3956770289" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233428.jpg" crc="285409397" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4203x136.jpg" crc="471465571" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u24879.jpg" crc="4245159071" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u25079.jpg" crc="3842850196" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233689.jpg" crc="3759433931" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3160x107.jpg" crc="3931476585" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u233429.jpg" crc="30269907" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4160x107.jpg" crc="34338926" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_3-crop-u248710.jpg" crc="4238898614" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="greatpitalogos_page_4-crop-u250710.jpg" crc="3893802339" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aldesign-crop-u2336810.jpg" crc="4278283460" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="mylogo2.png" crc="94487465" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="148930596" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="about.html" crc="3886734217" seo="true" mt="1536672032452" redirect="true"/>
+  <file name="portfolio.html" crc="209416761" seo="true" mt="1536671961498" redirect="true"/>
+  <file name="contact.html" crc="392970134" seo="true" mt="1536672147312" redirect="true"/>
+  <file name="web-design.html" crc="87344480" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="graphic-design.html" crc="169456084" seo="true" mt="1536671234715" redirect="true"/>
+</manifest>
