@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536672711204">
-  <folder name="assets">
-    <file name="resume.docx" crc="198762835" seo="true" mt="1536670127000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536673667126">
   <folder name="css">
     <file name="site_global.css" crc="4187564307"/>
-    <file name="master_a-master.css" crc="3966743656" ref="portfolio:graphic-design:about:contact:index:web-design"/>
-    <file name="nomq_preview_master_a-master.css" crc="340035338" ref="portfolio:graphic-design:about:contact:index:web-design"/>
-    <file name="portfolio.css" crc="3791488037" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4105589020" ref="portfolio"/>
+    <file name="master_a-master.css" crc="3966743656" ref="graphic-design:about:web-design:contact:portfolio:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="340035338" ref="graphic-design:about:web-design:contact:portfolio:index"/>
     <file name="graphic-design.css" crc="4158565376" ref="graphic-design"/>
     <file name="nomq_graphic-design.css" crc="3790668423" ref="graphic-design"/>
     <file name="about.css" crc="3938066883" ref="about"/>
     <file name="nomq_about.css" crc="203685518" ref="about"/>
-    <file name="contact.css" crc="3961297449" ref="contact"/>
-    <file name="nomq_contact.css" crc="137730582" ref="contact"/>
-    <file name="index.css" crc="364773986" ref="index"/>
-    <file name="nomq_index.css" crc="4111084560" ref="index"/>
     <file name="web-design.css" crc="4228511856" ref="web-design"/>
     <file name="nomq_web-design.css" crc="4261943644" ref="web-design"/>
+    <file name="contact.css" crc="3961297449" ref="contact"/>
+    <file name="nomq_contact.css" crc="137730582" ref="contact"/>
+    <file name="portfolio.css" crc="3791488037" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4105589020" ref="portfolio"/>
+    <file name="index.css" crc="364773986" ref="index"/>
+    <file name="nomq_index.css" crc="4111084560" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.docx" crc="198762835" seo="true" mt="1536670127000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:web-design:graphic-design"/>
@@ -39,6 +39,72 @@
     <file name="touchswipe.js" crc="4066113679" ref="web-design:graphic-design"/>
   </folder>
   <folder name="images">
+    <file name="mylogo2.png" crc="94487465" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
     <file name="pasted-svg-674271x582.svg" crc="4160930392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -643,72 +709,6 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
     <file name="aldesign-crop-u2336810.jpg" crc="4278283460" seo="true" ref="graphic-design">
-      <caption webpage="graphic-design" alt=""/>
-    </file>
-    <file name="mylogo2.png" crc="94487465" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
