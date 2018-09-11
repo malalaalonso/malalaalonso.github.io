@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536674095412">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="malalaalonso.me" resolutions="1x" timestamp="1536676845262">
   <folder name="css">
     <file name="site_global.css" crc="4187564307"/>
-    <file name="master_a-master.css" crc="3966743656" ref="graphic-design:about:web-design:contact:portfolio:index"/>
+    <file name="master_a-master.css" crc="506835636" ref="graphic-design:about:web-design:contact:portfolio:index"/>
     <file name="nomq_preview_master_a-master.css" crc="340035338" ref="graphic-design:about:web-design:contact:portfolio:index"/>
     <file name="graphic-design.css" crc="4158565376" ref="graphic-design"/>
     <file name="nomq_graphic-design.css" crc="3790668423" ref="graphic-design"/>
-    <file name="about.css" crc="3938066883" ref="about"/>
-    <file name="nomq_about.css" crc="203685518" ref="about"/>
+    <file name="about.css" crc="448210910" ref="about"/>
+    <file name="nomq_about.css" crc="167873427" ref="about"/>
     <file name="web-design.css" crc="4228511856" ref="web-design"/>
     <file name="nomq_web-design.css" crc="4261943644" ref="web-design"/>
     <file name="contact.css" crc="3961297449" ref="contact"/>
     <file name="nomq_contact.css" crc="137730582" ref="contact"/>
-    <file name="portfolio.css" crc="3791488037" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4105589020" ref="portfolio"/>
+    <file name="portfolio.css" crc="4259911863" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="458081449" ref="portfolio"/>
     <file name="index.css" crc="364773986" ref="index"/>
     <file name="nomq_index.css" crc="4111084560" ref="index"/>
   </folder>
@@ -48,19 +48,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -76,15 +63,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -104,6 +82,29 @@
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
     </file>
     <file name="pasted-svg-674271x582.svg" crc="4160930392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -125,19 +126,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -153,15 +141,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -181,6 +160,29 @@
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
     </file>
     <file name="iconmonstr-instagram-11_poster_.png" crc="3765290982" ref="index"/>
     <file name="iconmonstr-linkedin-1.svg" crc="3944731760" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
@@ -192,19 +194,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -220,15 +209,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -248,6 +228,29 @@
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
     </file>
     <file name="iconmonstr-linkedin-1_poster_.png" crc="3949178403" ref="index"/>
     <file name="iconmonstr-twitter-4.svg" crc="3818860618" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
@@ -259,19 +262,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -287,15 +277,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
-      <caption webpage="web-design" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -315,6 +296,29 @@
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
     </file>
     <file name="iconmonstr-twitter-4_poster_.png" crc="3932987172" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:web-design:graphic-design"/>
@@ -372,6 +376,9 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="me135x181.jpg" crc="4270535270" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me125x167.jpg" crc="173469591" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="me130x174.jpg" crc="4174192451" seo="true" ref="about">
@@ -712,10 +719,10 @@
       <caption webpage="graphic-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="148930596" seo="true" mt="1536671234715" redirect="true"/>
-  <file name="about.html" crc="3886734217" seo="true" mt="1536672032452" redirect="true"/>
-  <file name="portfolio.html" crc="209416761" seo="true" mt="1536671961498" redirect="true"/>
-  <file name="contact.html" crc="392970134" seo="true" mt="1536672147312" redirect="true"/>
-  <file name="web-design.html" crc="87344480" seo="true" mt="1536671234715" redirect="true"/>
-  <file name="graphic-design.html" crc="169456084" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="index.html" crc="4041053242" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="about.html" crc="3918942831" seo="true" mt="1536675552443" redirect="true"/>
+  <file name="portfolio.html" crc="278911467" seo="true" mt="1536676640943" redirect="true"/>
+  <file name="contact.html" crc="36433194" seo="true" mt="1536675345845" redirect="true"/>
+  <file name="web-design.html" crc="530150739" seo="true" mt="1536671234715" redirect="true"/>
+  <file name="graphic-design.html" crc="3864044985" seo="true" mt="1536671234715" redirect="true"/>
 </manifest>
